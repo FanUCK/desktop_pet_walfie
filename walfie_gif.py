@@ -107,6 +107,9 @@ class Walfie(QMainWindow, Ui_Walfie):
         img = QPixmap(self.imgs[self.index_a][self.index_b])
         img = img.scaledToHeight(self.height)
         self.label.setPixmap(img)
+        img_height = img.height()
+        img_width = img.width()
+        self.resize(self.height/img_height*img_width, self.height)
         self.index_b += 1
         timer = QTimer()
         timer.singleShot(self.img_frame[self.index_a], self.gif)
