@@ -12,7 +12,7 @@ Gif素材取自推特用户@walfieee（尚未经原作者授权）
 (I'm sorry, walfieee!)
 （对不住啦，walfieee！）
 
-＃效果图
+# 效果图
 见资料库中的Gif演示图
 
 Protagonists in gifs:
