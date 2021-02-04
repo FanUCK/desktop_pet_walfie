@@ -7,8 +7,7 @@ A simple, non interactive desktop application developed with Python and PySide2
 Developed by Bilibili@FanUCK
 
 由FanUCK开发
-
-
+# How to Use
 Run "walfie_gif.py" to use
 
 运行“walfie_gif.py”即可使用
