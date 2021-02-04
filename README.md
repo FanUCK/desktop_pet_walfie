@@ -8,6 +8,16 @@ Developed by Bilibili@FanUCK
 
 由FanUCK开发
 
+
+Run "walfie_gif.py" to use
+
+运行“walfie_gif.py”即可使用
+
+The runtime on which the program depends:
+
+程序所依赖的运行库：
+
+PySide2
 # Esign Sketch
 See the GIF demo in the code
 
