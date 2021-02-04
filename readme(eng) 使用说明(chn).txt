@@ -19,6 +19,7 @@ Gif中的人物：
 @Calliope Mori (The girl with pink hair)
 (And as you know, they are all vtubers!)
 （而且如你所知，她们都是虚拟主播！）
+
 Contact the developer:
 与开发者联系：
 Email:
@@ -27,8 +28,10 @@ Bilibili:
 @FanUCK
 GitHub:
 @FanUCK
+
 Thanks for using!
 感谢使用！
+
 ——FanUCK
 Written on February 3, 2021
 写于2021.02.03
