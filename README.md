@@ -12,16 +12,18 @@ Run "walfie_gif.py" to use
 
 运行“walfie_gif.py”即可使用
 
+
 The runtime on which the program depends:
 
 程序所依赖的运行库：
 
 PySide2, ui_walfie.py(see it in the database)
+
+PySide2, ui_walfie.py（在资料库中找到它）
 # Esign Sketch
 See the GIF demo in the database
 
 见资料库中的Gif演示图
-
 # About Gif
 Protagonists in gifs:
 
@@ -47,7 +49,6 @@ Gif素材取自推特用户@walfieee（尚未经原作者授权）
 (I'm sorry, walfieee!)
 
 （对不住啦，walfieee！）
-
 # Contact the developer
 Email:
 
