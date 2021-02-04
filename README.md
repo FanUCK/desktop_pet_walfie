@@ -16,9 +16,9 @@ The runtime on which the program depends:
 
 程序所依赖的运行库：
 
-PySide2
+PySide2, ui_walfie.py(see it in the database)
 # Esign Sketch
-See the GIF demo in the code
+See the GIF demo in the database
 
 见资料库中的Gif演示图
 
